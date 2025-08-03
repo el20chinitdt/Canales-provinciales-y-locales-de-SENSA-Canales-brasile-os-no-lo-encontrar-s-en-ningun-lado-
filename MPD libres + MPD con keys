@@ -1,0 +1,36 @@
+Teleco Zonal Ucacha
+https://csc-axs-edge02.sensa.com.ar/output/SMT4/TelecoUcachaD/output.mpd
+
+Barricada TV (TDA)
+https://csc-axs-edge02.sensa.com.ar/output/SMT6/BTVD/output.mpd
+
+BVC Bahia Blanca
+https://csc-axs-edge02.sensa.com.ar/output/SMT7/BVCd/output.mpd
+
+El Nueve Bahia Blanca
+https://csc-axs-edge02.sensa.com.ar/output/SMT3/C9BBD/output.mpd
+
+Canal 8 Mar del Plata
+https://csc-axs-edge02.sensa.com.ar/output/SMT2/C8MPD/output.mpd
+
+Canal 10 Mar del Plata
+https://csc-axs-edge02.sensa.com.ar/output/SMT6/C10MPD/output.mpd
+
+Canal 10 Rio Negro
+https://csc-axs-edge02.sensa.com.ar/output/SMT2/C10RND/output.mpd
+
+SBT
+https://cwtvbk.cdnwatchlabs.io/dash/channels/sbt/index.mpd
+(--key 4bc8c28819264687bf4ba117220395d6:625d774f54e01f173d90f735f53695e7)
+
+Band
+https://cwtvbk.cdnwatchlabs.io/dash/channels/band/index.mpd
+(--key 044f220ab60a44ee8e56a9859e98faa0:e2830f00186f363b033c41af964a1bad)
+
+TV Globo
+https://cwtvbk.cdnwatchlabs.io/dash/channels/globorio/index.mpd
+(--key 1cbcf967759d43b882bf83eed16b40a3:636c6db3e9e30896da7fac17d43db7e6)
+
+CNN Brasil
+https://cwtvbk.cdnwatchlabs.io/dash/channels/cnnbrasil/index.mpd
+(--key a3924897f40a45518180bedb2c4e7c2f:f5ea88dad02bb859f484659d22ec9723)
