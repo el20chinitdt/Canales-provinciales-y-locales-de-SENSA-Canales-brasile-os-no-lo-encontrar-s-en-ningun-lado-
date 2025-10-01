@@ -19,6 +19,9 @@ https://csc-axs-edge02.sensa.com.ar/output/SMT6/C10MPD/output.mpd
 Canal 10 Rio Negro
 https://csc-axs-edge02.sensa.com.ar/output/SMT2/C10RND/output.mpd
 
+Canal 99 Miramar de Ansenuza
+https://smt-usr-edge02.sensa.com.ar/output/ARR2/C99MD/output.mpd
+
 SBT
 https://cwtvbk.cdnwatchlabs.io/dash/channels/sbt/index.mpd
 (--key 4bc8c28819264687bf4ba117220395d6:625d774f54e01f173d90f735f53695e7)
