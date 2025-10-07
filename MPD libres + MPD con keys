@@ -1,26 +1,35 @@
 Teleco Zonal Ucacha
-https://csc-axs-edge02.sensa.com.ar/output/SMT4/TelecoUcachaD/output.mpd
+https://smt-usr-edge02.sensa.com.ar/output/SMT4/TelecoUcachaD/output.mpd
 
 Barricada TV (TDA)
-https://csc-axs-edge02.sensa.com.ar/output/SMT6/BTVD/output.mpd
+https://smt-usr-edge02.sensa.com.ar/output/SMT6/BTVD/output.mpd
 
 BVC Bahia Blanca
-https://csc-axs-edge02.sensa.com.ar/output/SMT7/BVCd/output.mpd
+https://smt-usr-edge02.sensa.com.ar/output/SMT7/BVCd/output.mpd
 
 El Nueve Bahia Blanca
-https://csc-axs-edge02.sensa.com.ar/output/SMT3/C9BBD/output.mpd
+https://smt-usr-edge02.sensa.com.ar/output/SMT3/C9BBD/output.mpd
 
 Canal 8 Mar del Plata
-https://csc-axs-edge02.sensa.com.ar/output/SMT2/C8MPD/output.mpd
+https://smt-usr-edge02.sensa.com.ar/output/SMT2/C8MPD/output.mpd
 
 Canal 10 Mar del Plata
-https://csc-axs-edge02.sensa.com.ar/output/SMT6/C10MPD/output.mpd
+https://smt-usr-edge02.sensa.com.ar/output/SMT6/C10MPD/output.mpd
 
 Canal 10 Rio Negro
-https://csc-axs-edge02.sensa.com.ar/output/SMT2/C10RND/output.mpd
+https://smt-usr-edge02.sensa.com.ar/output/SMT2/C10RND/output.mpd
 
 Canal 99 Miramar de Ansenuza
 https://smt-usr-edge02.sensa.com.ar/output/ARR2/C99MD/output.mpd
+
+UniRio TV
+https://smt-usr-edge02.sensa.com.ar/output/SMT6/UniRioTVd/output.mpd
+
+RTS
+https://smt-usr-edge02.sensa.com.ar/output/SMT6/RTSd/output.mpd
+
+Televisión Pública Pampeana
+https://smt-usr-edge02.sensa.com.ar/output/ARR3/Canal3D/output.mpd
 
 SBT
 https://cwtvbk.cdnwatchlabs.io/dash/channels/sbt/index.mpd
